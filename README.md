@@ -12,3 +12,8 @@ The script has two input arguments, input.txt and output.txt. Input text file ha
 ```
 
 
+### To be added soon:
+```
+	- Add getopt options of different output styles (don't show failed connections or print available SMB shares with in a "ready-to-mount" format)
+	- Make mountings of available shares automatic upon discovery
+```
